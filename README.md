@@ -4,7 +4,7 @@ BJTU学硕博士双页模板
 主要是将学校官方的单页模板优点与之前大佬发的双页模板相结合，并且修改了亿点细节。
 
 1. 个人比较强迫症，封面及致谢部分调整：
-封面数字为宋体，并且间距调不到完全与word模板一致，因此直接用word模板生成pdf。
+封面数字为宋体，并且间距调不到完全与word模板一致，因此直接用word编辑生成pdf后插入文中。
 2. 封面博/硕修改demo.tex文件中
 \documentclass[Doctor]{BJTU-thesis} % 博士
 \documentclass[AcMaster]{BJTU-thesis} % 硕士
