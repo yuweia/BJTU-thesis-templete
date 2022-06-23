@@ -15,4 +15,5 @@ BJTU学硕博士双页模板
 7. 图表标题改1.1为1-1 8. 参考文献行距调为16pt。
 
 官方模板地址：https://gs.bjtu.edu.cn/cms/item/195.html
+
 大佬模板地址：https://github.com/xfdywy/bjtu-thesis-templete
