@@ -6,7 +6,9 @@ BJTU学硕博士双页模板
 1. 个人比较强迫症，封面及致谢部分调整：
 封面数字为宋体，并且间距调不到完全与word模板一致，因此直接用word编辑生成pdf后插入文中。
 2. 封面博/硕修改demo.tex文件中
+3. 
 \documentclass[Doctor]{BJTU-thesis} % 博士
+
 \documentclass[AcMaster]{BJTU-thesis} % 硕士
 3. 编译链接：xelatex——bibtex——xelatex——xelatex
 4. 页边距、页脚距离等又调整了一下，现在已经基本上和word模板一致。
