@@ -5,8 +5,7 @@ BJTU学硕博士双页模板
 
 1. 个人比较强迫症，封面及致谢部分调整：
 封面数字为宋体，并且间距调不到完全与word模板一致，因此直接用word编辑生成pdf后插入文中。
-2. 封面博/硕修改demo.tex文件中
-3. 
+2. 封面博/硕修改demo.tex文件中：
 \documentclass[Doctor]{BJTU-thesis} % 博士
 
 \documentclass[AcMaster]{BJTU-thesis} % 硕士
